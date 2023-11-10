@@ -1,4 +1,5 @@
 # Sistema Contable 2023
+![e01affccb6a30ed12e5bb8d9c68c99cf](https://github.com/edraslazov/SIC2023/assets/107091803/e99cb97c-581d-4a83-8ef1-d4d17a313958)
 
 ## Integrantes del equipo
 
