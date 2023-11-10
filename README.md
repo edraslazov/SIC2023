@@ -21,7 +21,9 @@ Realizado en Eclipse. Contiene:
 ### Base de datos
 
 Hecha en PostgreSQL en el programa PgAdmin 4.
-
+### NOTAS IMPORTANTES A TOMAR EN CUENTA
 **Nota:** Importar base de datos para poder ejecutar el programa ya que está a nivel de localhost.
 
 **Nota:** Cambiar el password de la BD por la contraseña que tiene su PgAdmin 4 para conexión de la misma.
+
+**Nota:** Despues de descomprimir el primer archivo, debe de descomprimir el siguiente y utilizar el llamado avanceSistemasContables, para que no haya ningun problema con la ejecución.
